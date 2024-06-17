@@ -1,0 +1,148 @@
+@media screen and (max-width:960px){
+    .container-1{
+
+        background-image: url(background.jpg);
+        
+        background-repeat: no-repeat;
+        height: 500px;
+        width: 100vw;
+        
+        justify-content: center;
+        align-items: center;
+        
+        
+        }
+        .first-line{
+            text-align: center;
+            font-size: 34px;
+            color: #ffffff;
+                                font-weight: 700;    
+                                   }
+                                   .second-line{
+                                    text-align: center;
+                                    font-size: 18px;
+                                    color: #ffffff;
+                                    font-weight: 500;
+                                    margin: 10px;
+                                    
+                                                           }
+                                                           .third-line{
+                                                            text-align: center;
+                                                            font-size: 17px;
+                                                            color: #ffffff;
+                                                            line-height: 30px;
+                                                            font-weight: 500;
+                                    
+                                    
+                                                           }
+        .input input{
+            color: #ffffff;
+            height: 36px;
+            width: 251px;
+            padding: 24px 16px 8px;
+            border: none;
+            border-radius: 5px;
+    
+            font-size: 18px;
+            background-color: rgba(0,0,0,.5);
+           }
+        .input button{
+        
+            margin: 8px;
+            height: 35px;
+    background-color: #e50914;
+            width: 180px;
+            border-radius: 5px;
+            border: none;
+            color: #ffffff;
+            font-size: 24px;
+    
+            
+           }
+
+    .container-2{
+        flex-wrap: wrap;
+        padding: 50px 0;
+        
+    }
+    .enjoy h1{
+        font-size: 34px;
+        font-weight: 700;
+        color: white;
+        text-align: center;
+    align-items: center;
+    margin-bottom: 13px;
+    }
+    .enjoy h3{
+        font-size: 17px;
+        font-weight: 400;
+        color: white;
+        text-align: center;
+        
+    }
+    .container-3{
+        flex-wrap: wrap-reverse;
+        padding: 50px 0;
+
+    }
+    .dawnload h1{
+        font-size: 34px;
+        font-weight: 700;
+        color: white;
+        text-align: center;
+    align-items: center;
+    margin-bottom: 13px;
+
+    }
+    
+.dawnload h3{
+    font-size: 17px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+.container-4{
+    flex-wrap: wrap;
+    padding: 50px 0;
+
+}
+.watch h1{
+    font-size: 34px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+align-items: center;
+margin-bottom: 13px;
+
+}
+.watch h3{
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+    
+.container-5{
+    flex-wrap: wrap-reverse;
+    padding: 50px 0;
+
+}
+.dawnload h1{
+    font-size: 34px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+align-items: center;
+margin-bottom: 13px;
+
+}
+.dawnload h3{
+
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+
+
+}
